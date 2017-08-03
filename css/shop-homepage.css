@@ -55,14 +55,15 @@ footer {
 #home .carousel-inner .item p {
     position: absolute;
     top: 125px;
-    left: 35%;
+    left: 50%;
     width: 600px;
     color: #fff;
-    margin-left: -150px;
-    text-align: justify;
+    margin-left: -300px;
+    text-align: center;
     background-color: rgba(0,0,0,0.4);
     padding: 10px;
     font-size: 40px;
+
 }
 #home .row {
     margin-bottom: 30px;
