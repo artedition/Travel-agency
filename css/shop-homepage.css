@@ -1,0 +1,88 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin:50px 0;
+}
+#home .carousel-inner .item p {
+    position: absolute;
+    top: 125px;
+    left: 35%;
+    width: 600px;
+    color: #fff;
+    margin-left: -150px;
+    text-align: justify;
+    background-color: rgba(0,0,0,0.4);
+    padding: 10px;
+    font-size: 40px;
+}
+#home .row {
+    margin-bottom: 30px;
+}
+#home form {
+ box-shadow: 3px 7px 23px 1px #c21919;
+ padding: 15px;
+ border-radius: 15px;
+}
+#home {
+    background-color: #EAF5F3;
+/*background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");*/
+}
+/*#example .panel {
+    box-shadow: 3px 7px 23px 1px #133AD9;
+}
+#example address {box-shadow: 3px 7px 23px 1px #0DA921;
+    padding: 15px;
+
+    } 
+#example {
+    padding-top: 10px;
+}*/
