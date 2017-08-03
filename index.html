@@ -73,6 +73,66 @@
                     <a href="#" class="list-group-item">Category 2</a>
                     <a href="#" class="list-group-item">Category 3</a>
                 </div>
+                <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+  Связаться с нами
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+     <div class="bootstrap-iso">
+ <div class="container-fluid">
+  <div class="row">
+   <div class="col-md-6 col-sm-6 col-xs-12">
+     <form name="formcheck" onsubmit="return formCheck(this);" method="post">
+  <div class="form-group ">
+      <label class="control-label " for="name">
+       Name
+      </label>
+      <input class="form-control" id="name" name="name" type="text"/>
+     </div>
+          <div class="form-group ">
+      <label class="control-label " for="phonenumber">
+       Phone Number
+      </label>
+      <input class="form-control" id="phonenumber" name="phonenumber" type="text"/>
+     </div>
+     <div class="form-group ">
+      <label class="control-label requiredField" for="email">
+       Email
+       <span class="asteriskField">
+        *
+       </span>
+      </label>
+      <input class="form-control" id="email" name="email" type="text"/>
+     </div>
+     
+     <div class="form-group ">
+      <label class="control-label " for="message">
+       Details
+      </label>
+      <textarea class="form-control" cols="40" id="message" name="message" placeholder="Please Explain Everything in Detail" rows="10"></textarea>
+     </div>
+     <div class="form-group">
+      <div>
+       <button class="btn btn-danger btn-lg" name="submit" type="submit">
+        Complete
+       </button>
+      </div>
+     </div>
+    </form>
+   </div>
+  </div>
+ </div>
+</div>
+  
+
+     
+    </div>
+  </div>
+</div>
             </div>
 
             <div class="col-md-9">
@@ -88,10 +148,12 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
+                                <a href="index3.html">
                                     <img class="slide-image" src="img/1.png" alt="">
                                     <p>
                                         Круизы по Балтийскому морю
                                     </p>
+                                    </a>
                                 </div>
                                 <div class="item">
                                     <img class="slide-image" src="img/2.png" alt="">
