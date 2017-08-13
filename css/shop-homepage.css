@@ -65,8 +65,7 @@ footer {
     background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
     font-size: 40px;
-}
-
+    
 #home .row {
     margin-bottom: 30px;
 }
@@ -112,7 +111,7 @@ footer {
     color: #333131
 }
 
-.bootstrap-iso form button,
+/bootstrap-iso form button,
 .bootstrap-iso form button:hover {
     color: #ffffff !important;
 }
