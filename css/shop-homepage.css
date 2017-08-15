@@ -65,8 +65,8 @@ footer {
     background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
     font-size: 40px;
-    
-#home .row {
+
+#home .row {shape-outside: 
     margin-bottom: 30px;
 }
 
@@ -83,8 +83,6 @@ footer {
     margin: 0 auto;
     display: block;
 }
-
-
 
 
 /*background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");*/
