@@ -38,7 +38,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="#">О компании</a>
+                        <a href="company.php">О компании</a>
                     </li>
                     <li>
                         <a href="#">Информация для туристов</a>
