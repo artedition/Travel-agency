@@ -53,8 +53,9 @@ font-family: 'Open Sans', sans-serif;
 }
 
 footer {
-    margin: 50px 0;
+    padding: 50px 0;
     background-color: #222;
+    color: #fff;
 }
 
 #home .carousel-inner .item p {
@@ -141,4 +142,9 @@ p.ta-discription{
 #form-main{
     background-color: #fff;
     border: 2px solid #333;
+    }
+    #about-photo.container {
+        min-height: 300 px;
+        background: #eee url(../img/ship.jpg) center center no-repeat;
+        background-size: cover;
     }

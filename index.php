@@ -171,5 +171,7 @@ include 'header.php';
             </div>
         </div>
     </div>
+    </div>
+
     <!-- /.container -->
     <?php include "footer.php"; ?>
