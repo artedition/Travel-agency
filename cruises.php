@@ -55,17 +55,4 @@ include 'header.php';
 </p>
 </div>
     </section>
-    <script src="js/jquery.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="lightbox/js/lightbox.js"></script>
-    <script>
-        $(document).ready(function(){
-            
-        });
-    </script>
-
-
-</body>
-
-</html>
+   <?php include 'footer.php'; ?>
