@@ -165,56 +165,11 @@ include 'header.php';
                            </div>
                     </div>
                   <div class="col-sm-4 col-lg-4 col-md-4">
-                    <div id="form-main">
-  <div id="form-div">
-    <form class="form" id="form1">
-      
-      <p class="name">
-        <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Имя" id="name" />
-      </p>
-      
-      <p class="email">
-        <input name="email" type="text" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" />
-      </p>
-      
-      <p class="text">
-        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Комментарии"></textarea>
-      </p>
-      
-            <div class="submit">
-        <input type="submit" class="btn btn-primary" value="Отправить" id="button-blue"/>
-        <div class="ease"></div>
-      </div>
-    </form>
-  </div>
-              </div>   
+            <?php include 'form.php'; ?>
+
                 </div>
             </div>
         </div>
     </div>
     <!-- /.container -->
-    <div class="container">
-        <hr>
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
-                </div>
-            </div>
-        </footer>
-    </div>
-    <!-- /.container -->
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="lightbox/js/lightbox.js"></script>
-    <script>
-        $(document).ready(function(){
-
-        });
-    </script>
-</body>
-
-</html>
+    <?php include "footer.php"; ?>

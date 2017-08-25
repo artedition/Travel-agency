@@ -34,6 +34,9 @@ include 'header.php';
                 </div>
             </div>
             </div>
+            <div class="col-md-3">
+                  <?php include 'form.php'; ?>
+            </div>
         </div>
            
             
