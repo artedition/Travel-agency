@@ -7,7 +7,9 @@
 body {
     padding-top: 70px;
     /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+font-family: 'Open Sans', sans-serif;
 }
+
 
 .slide-image {
     width: 100%;
@@ -65,8 +67,9 @@ footer {
     background-color: rgba(0, 0, 0, 0.4);
     padding: 10px;
     font-size: 40px;
+}
 
-#home .row {shape-outside: 
+#home .row {
     margin-bottom: 30px;
 }
 
@@ -109,7 +112,7 @@ footer {
     color: #333131
 }
 
-/bootstrap-iso form button,
+.bootstrap-iso form button,
 .bootstrap-iso form button:hover {
     color: #ffffff !important;
 }
@@ -123,3 +126,18 @@ footer {
 .asteriskField {
     color: red;
 }
+.ta-title {
+    text-align: center;
+}
+h3.ta-title {
+    
+    font-size: 20px;
+}
+p.ta-discription{
+    text-align: justify;
+    text-indent: 20px;
+}
+#form-main{
+    background-color: #fff;
+    border: 2px solid #333;
+    }

@@ -10,8 +10,10 @@
     <title>Travel agency</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="lightbox/css/lightbox.css">
     <!-- Custom CSS -->
     <link href="css/shop-homepage.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=cyrillic" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -23,9 +25,43 @@
 <body id="cruise">
     <section class="head-image">
         <div class="container">
-            <img src="img/5.png" alt="">
-           <h3> Компания MOBY SPL — международный паромный оператор в Санкт-Петербурге </h3>
-     <p>Основана осенью 2016 года в результате слияния компании ST.PETER LINE и крупнейшего итальянского паромного оператора Moby S.p.A.
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+            <div class="thumbnail">
+                <a href="img/5.png" data-lightbox="cruise"> 
+                <img src="img/5.png" alt="">
+            </a> 
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                         <a href="img/1.png" data-lightbox="cruise"> 
+                <img src="img/1.png" alt="">
+            </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                         <a href="img/1.png" data-lightbox="cruise"> 
+                <img src="img/1.png" alt="">
+            </a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="thumbnail">
+                      <a href="img/2.png" data-lightbox="cruise"> 
+                <img src="img/2.png" alt="">
+            </a>  
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+           
+            
+              
+           <h3 class="ta-title"> Компания MOBY SPL — международный паромный оператор в Санкт-Петербурге </h3>
+     <p class="ta-discription"> Основана осенью 2016 года в результате слияния компании ST.PETER LINE и крупнейшего итальянского паромного оператора Moby S.p.A.
 
 С  2010 года компанияКомпания MOBY SPL — международный паромный оператор в Санкт-Петербурге ST.PETER LINE занимала прочную позицию среди лидеров паромных круизов в Балтийском море, а бренд ST.PETER LINE известен и любим тысячами российских и зарубежных пассажиров. 
 
@@ -41,6 +77,12 @@
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="lightbox/js/lightbox.js"></script>
+    <script>
+        $(document).ready(function(){
+            
+        });
+    </script>
 
 
 </body>
