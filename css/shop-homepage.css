@@ -54,6 +54,7 @@ font-family: 'Open Sans', sans-serif;
 
 footer {
     margin: 50px 0;
+    background-color: #222;
 }
 
 #home .carousel-inner .item p {
