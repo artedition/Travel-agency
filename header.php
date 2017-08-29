@@ -47,10 +47,10 @@
                         <a href="company.php">О компании</a>
                     </li>
                     <li>
-                        <a href="#">Информация для туристов</a>
+                        <a href="turist.php">Информация для туристов</a>
                     </li>
                     <li>
-                        <a href="#">Контакты</a>
+                        <a href="contact.php">Контакты</a>
                     </li>
                 </ul>
             </div>

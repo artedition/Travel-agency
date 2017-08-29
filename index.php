@@ -86,7 +86,7 @@ include 'header.php';
                                     </a>
                                 </div>
                                 <div class="item">
-                                 <a href="turkey.html">
+                                 <a href="turkey.php">
                                     <img class="slide-image" src="img/3.jpg" alt="">
                                 
                                 <p>

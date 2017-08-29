@@ -10,7 +10,22 @@
 		<div class="row">
 			<div class="col-md-6">
 				<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod facere nam, sunt minus eveniet, perferendis dicta! Illum, alias, modi. Placeat possimus, eligendi consequatur voluptatibus fuga magni fugit mollitia saepe a reiciendis officiis libero assumenda expedita eaque provident eum modi tempore alias? Voluptatibus quidem vitae illo corporis? Quod odit eius ipsum recusandae nulla consequuntur cupiditate doloremque velit aspernatur, temporibus reiciendis quisquam quidem optio, commodi nostrum blanditiis. Cum odio, ducimus corporis exercitationem delectus! Officiis accusamus repellendus sed commodi labore necessitatibus vitae saepe mollitia animi similique fugit in libero rerum qui impedit hic cumque quis sequi minima quia, culpa voluptatibus repellat illum. Tenetur mollitia deleniti cupiditate aliquid quaerat ut, consequatur eius modi voluptatum ipsam nostrum aperiam tempore excepturi suscipit repellendus consequuntur unde ullam. Delectus eaque facere perspiciatis suscipit quia tempore totam alias, praesentium deleniti explicabo iure quo, possimus vitae mollitia deserunt id repellendus aliquid provident illo enim obcaecati vel sit? Voluptas distinctio aspernatur incidunt ut, est pariatur enim eius sunt aut reiciendis, totam accusamus. Laboriosam eius, quae! Perferendis blanditiis a nisi amet ducimus, dignissimos deserunt itaque minus quaerat fugit et aliquid in ullam accusamus pariatur. Quae accusamus pariatur sint consectetur, consequatur quod officiis molestias aperiam dolores. Accusantium alias aliquam veritatis animi saepe similique sunt provident deleniti voluptatibus magnam amet quo vel a corporis perferendis officia ab molestiae, earum quibusdam, eum, adipisci repellat natus. Hic quaerat pariatur debitis molestias sequi nostrum, et minus enim nisi accusamus ut ducimus ea, assumenda soluta sit! Amet unde, in rerum impedit beatae accusamus quod. Voluptas repellat, quasi praesentium. Laborum ab aliquid praesentium, magnam quibusdam voluptate. Architecto eaque excepturi consequuntur perspiciatis voluptatibus minima eius ducimus, minus vitae voluptatem officia dolore, neque impedit. Ipsa libero odit, officiis, cum officia inventore, ea hic minima rem ratione quae consequatur quis molestiae voluptatem amet assumenda minus! Quo molestias sint praesentium minima, doloribus maiores.
+		Турагентство " Voyage", начал свою работу на туристическом рынке России в 1991 году и уже более 20 лет нашей основной деятельностью является предоставление нашим клиентам разнообразных услуг, качественно и по разумным ценам.
+
+<h4>
+	Эксперт в области отдыха
+</h4>
+"Voyage" ежегодно представляет эксклюзивные фирменные маршруты "2 в 1" в которых с комфортом и по разумным ценам можно соединить недельное познавательное путешествие по Европе с неделей пляжного отдыха на побережье Испании или Италии.
+Выбирая исключительно пляжный отдых, в зависимости от времени года и бюджета, мы подберем Вам оптимальный тур в Испанию, Францию,  Турцию, Таиланд, Доминиканскую республику, либо предложим увлекательные экскурсионные туры в Португалию, Францию, Чехию, Италию, Испанию.
+<h4>
+	Обслуживание корпоративных клиентов и туристических групп
+</h4>
+Групповые автобусные туры "Voyage" имеют уникальные формулы "10+1", а морские круизы "20+1". Это означает, что при группах от 10 и 20 человек, сопровождающие едут бесплатно, а также мы премируем их бонусами по итогам поездки.
+<h4>
+	Все лучшее нашим клиентам
+</h4>
+"Voyage" имеет индивидуальный подход к каждому клиенту и предлагает специальную дисконтную программу при повторном обращении к нам. Всем держателям дисконтных карт "Voyage", которые выдаются уже с первой покупки от 5000 рублей, предоставляются скидки от 3% до 7% в зависимости от бронируемого турпродукта. Регулярные оповещения о спецпредложениях, скидках, акциях, а также персональные скидки при покупке тура в День Рождения, и держателям карт Stop In Finland, Olympic sport, Citibank, функции on-line бронирования и "обратная связь" на на нашем сайте www.west-travel.ru безусловно сделают Ваше обращение к нам более комфортным, а отдых еще приятнее.
+
 		</p>
 			</div>
 			<div class="col-md-6 video">
