@@ -78,7 +78,7 @@ include 'header.php';
                                     </a>
                                 </div>
                                 <div class="item">
-                                <a href="sochi.html">
+                                <a href="sochi.php">
                                     <img class="slide-image" src="img/2.png" alt="">
                                     <p>
                                         Сочи от 31 000 рублей

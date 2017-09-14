@@ -13,7 +13,7 @@ font-family: 'Open Sans', sans-serif;
 
 .slide-image {
     width: 100%;
-}
+}Ff
 
 .carousel-holder {
     margin-bottom: 30px;
@@ -53,7 +53,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 footer {
-    padding: 30px 0;
+    padding: 20px 0;
     background-color: #222;
     color: #fff;
 }
@@ -123,6 +123,7 @@ footer {
     border-color: #ec3114;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(236, 49, 20, 0.6);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(236, 49, 20, 0.6);
+
 }
 
 .asteriskField {
@@ -142,6 +143,8 @@ p.ta-discription{
 #form-main{
     background-color: #fff;
     border: 2px solid #333;
+    box-shadow: 1px 9px 28px 3px #4965c7;
+    
     }
     #about-photo .container {
         min-height: 300px;

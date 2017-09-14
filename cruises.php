@@ -6,36 +6,36 @@ include 'header.php';
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
             <div class="thumbnail">
-                <a href="img/5.png" data-lightbox="cruise"> 
-                <img src="img/5.png" alt="">
+                <a href="img/ship4.jpg" data-lightbox="cruise"> 
+                <img src="img/ship4.jpg" alt="">
             </a> 
             </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail">
-                         <a href="img/1.png" data-lightbox="cruise"> 
-                <img src="img/1.png" alt="">
+                         <a href="img/ship1.jpg" data-lightbox="cruise"> 
+                <img src="img/ship.jpg" alt="">
             </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                         <a href="img/1.png" data-lightbox="cruise"> 
-                <img src="img/1.png" alt="">
+                         <a href="img/ship2.jpg" data-lightbox="cruise"> 
+                <img src="img/ship2.jpg" alt="">
             </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                      <a href="img/2.png" data-lightbox="cruise"> 
-                <img src="img/2.png" alt="">
+                      <a href="img/ship3.jpg" data-lightbox="cruise"> 
+                <img src="img/ship3.jpg" alt="">
             </a>  
                     </div>
                 </div>
             </div>
             </div>
             <div class="col-md-3">
-                  <?php include 'form.php'; ?>
+                             <?php include 'form.php'; ?>
             </div>
         </div>
            

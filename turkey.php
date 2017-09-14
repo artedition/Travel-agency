@@ -6,29 +6,29 @@ include 'header.php';
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
             <div class="thumbnail">
-                <a href="img/1.png" data-lightbox="cruise"> 
-                <img src="img/1.png" alt="">
+                <a href="img/turk.jpg" data-lightbox="cruise"> 
+                <img src="img/turk.jpg" alt="">
             </a> 
             </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="thumbnail">
-                         <a href="img/2.png" data-lightbox="cruise"> 
-                <img src="img/2.png" alt="">
+                         <a href="img/turk1.jpg" data-lightbox="cruise"> 
+                <img src="img/turk1.jpg" alt="">
             </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                         <a href="img/3.jpg" data-lightbox="cruise"> 
-                <img src="img/3.jpg" alt="">
+                         <a href="img/turk2.jpg" data-lightbox="cruise"> 
+                <img src="img/turk2.jpg" alt="">
             </a>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="thumbnail">
-                      <a href="img/travel.jpg" data-lightbox="cruise"> 
-                <img src="img/2.jpg" alt="">
+                      <a href="img/turk3.jpg" data-lightbox="cruise"> 
+                <img src="img/turk3.jpg" alt="">
             </a>  
                     </div>
                 </div>
