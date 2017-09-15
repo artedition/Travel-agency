@@ -35,10 +35,7 @@ include 'header.php';
             </div>
             </div>
             <div class="col-md-3">
-            <h4>
-                Оставить заявку
-            </h4>
-                  <?php include 'form.php'; ?>
+                              <?php include 'form.php'; ?>
             </div>
         </div>
            
