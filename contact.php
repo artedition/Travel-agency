@@ -8,7 +8,7 @@
 			Контакты
 		</h2>
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-md-4">
 			<h4>
 				Центр бронирования
 			</h4>
@@ -30,6 +30,11 @@
 	<div>
 		Электронный адрес: sales@stpeterline.com
 	</div>
+</div>
+<div class="col-md-8">
+	Здесь будет карта
+</div>
+</div>
 </div>
 </section>
  <?php include 'footer.php'; ?>
