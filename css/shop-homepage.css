@@ -13,7 +13,15 @@ nav { color: #fff;
     background-color: #286090;
     border-color: #204d74;    
 }  
-
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: inherit;
+}
+.nav>li>a, .nav>li>a:focus, .nav>li>a:hover {
+    color: #fff;
+}
+.navbar-brand, .navbar-brand:hover {
+    color: #fff;
+}
 
 
 .slide-image {
