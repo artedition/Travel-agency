@@ -8,6 +8,8 @@ body {
     padding-top: 70px;
     /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: 'Open Sans', sans-serif;
+    min-height: 100vh;
+    position: relative;
 }
 
 nav {
@@ -80,10 +82,17 @@ nav {
 
 footer {
     padding: 20px 0;
-    background-color: #222;
+    background-color: #286090;
+    border-color: #204d74;
     color: #fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    min-height: 60px;
 }
-
+.margin-div{
+    min-height: 60px;
+}
 #home .carousel-inner .item p {
     position: absolute;
     top: 125px;
@@ -185,3 +194,24 @@ p.ta-discription {
 .contacts-info {
     margin-bottom: 20px;
 }
+    #about-info p {
+        text-align: justify;
+    }
+    .tur-content img {
+        width: 100%;
+     }
+     .tur-content {
+        padding: 15px;
+     }
+     .form input, .form textarea {
+        width: 100%;
+    }
+    a.tour-link:hover {
+        text-decoration: none;
+    }
+    .tour-link .thumbnail {
+        transition: all 0.7s;
+            }
+    .tour-link:hover .thumbnail {
+        box-shadow: 1px 9px 28px 3px #4965c7;
+    }

@@ -130,17 +130,20 @@ include 'header.php';
                          <h2 class="ta-title"> Горящие предложения </h2>
                 <div class="row">
                     <div class="col-sm-4 col-lg-4 col-md-4">
+                    <a href="#" data-toggle="modal" data-target="#greeceModal" class="tour-link">
                         <div class="thumbnail">
                             <img src="img/4.jpg" alt="">
                             <div class="caption">
                                 <h4 class="pull-right">от 54 000 руб</h4>
-                                <h4><a href="#">Греция</a>
+                                <h4>Греция
                                 </h4>
                                 <p>Горящие предложения на август на курорты: Родос, Крит и Корфу
                                 </p>
+                                 Связаться с нами
+                             </button>
                             </div>
-                          
                             </div>
+                            </a>
                     </div>
                     <div class="col-sm-4 col-lg-4 col-md-4">
                         <div class="thumbnail">
@@ -196,4 +199,5 @@ include 'header.php';
     </div>
 
     <!-- /.container -->
+    <?php include "greece-popup.php" ; ?>
     <?php include "footer.php"; ?>

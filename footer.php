@@ -1,3 +1,6 @@
+ <div class="margin-div">
+   
+ </div>
   <footer>
   	<div class="container">
   		Voyage
