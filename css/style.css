@@ -7,19 +7,28 @@
 body {
     padding-top: 70px;
     /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
-nav { color: #fff;
+
+nav {
+    color: #fff;
     background-color: #286090;
-    border-color: #204d74;    
-}  
-.nav>li>a:focus, .nav>li>a:hover {
+    border-color: #204d74;
+}
+
+.nav>li>a:focus,
+.nav>li>a:hover {
     background-color: inherit;
 }
-.nav>li>a, .nav>li>a:focus, .nav>li>a:hover {
+
+.nav>li>a,
+.nav>li>a:focus,
+.nav>li>a:hover {
     color: #fff;
 }
-.navbar-brand, .navbar-brand:hover {
+
+.navbar-brand,
+.navbar-brand:hover {
     color: #fff;
 }
 
@@ -27,6 +36,7 @@ nav { color: #fff;
 .slide-image {
     width: 100%;
 }
+
 .gsInformer {
     margin-bottom: 20px;
 }
@@ -106,6 +116,7 @@ footer {
 }
 
 
+
 /*background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");*/
 
 
@@ -139,31 +150,38 @@ footer {
     border-color: #ec3114;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(236, 49, 20, 0.6);
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(236, 49, 20, 0.6);
-
 }
 
 .asteriskField {
     color: red;
 }
+
 .ta-title {
     text-align: center;
 }
+
 h3.ta-title {
-    
+
     font-size: 20px;
 }
-p.ta-discription{
+
+p.ta-discription {
     text-align: justify;
     text-indent: 20px;
 }
-#form-main{
+
+#form-main {
     background-color: #fff;
     border: 2px solid #333;
     box-shadow: 1px 9px 28px 3px #4965c7;
-    
-    }
-    #about-photo .container {
-        min-height: 300px;
-        background: #eee url(../img/travel.jpg) center center no-repeat;
-        background-size: cover;
-    }
+}
+
+#about-photo .container {
+    min-height: 300px;
+    background: #eee url(../img/travel.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.contacts-info {
+    margin-bottom: 20px;
+}
